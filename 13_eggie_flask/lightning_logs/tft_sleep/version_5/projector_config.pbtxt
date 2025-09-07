@@ -1,0 +1,5 @@
+embeddings {
+tensor_name: "baby_id:08307"
+tensor_path: "08307/baby_id/tensors.tsv"
+metadata_path: "08307/baby_id/metadata.tsv"
+}
